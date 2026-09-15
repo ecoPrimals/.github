@@ -5,7 +5,7 @@
 15 composable daemons, 9 validation springs, 98,955 tests, 3.6M lines of Rust.
 No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
-**Live site:** [primals.eco](https://primals.eco) &nbsp;|&nbsp; **Forgejo:** [git.primals.eco](https://git.primals.eco)
+**Live site:** [sporeprint.primals.eco](https://sporeprint.primals.eco) &nbsp;|&nbsp; **Forgejo:** [git.primals.eco](https://git.primals.eco)
 
 ---
 
@@ -13,7 +13,7 @@ No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
 | Vendor stack | ecoPrimal |
 |---|---|
-| AWS/GCP/Azure | Self-hosted [NUCLEUS](https://primals.eco/architecture/nucleus-architecture/) on any Linux box |
+| AWS/GCP/Azure | Self-hosted [NUCLEUS](https://sporeprint.primals.eco/architecture/nucleus-architecture/) on any Linux box |
 | OpenSSL / BoringSSL | [bearDog](https://github.com/ecoPrimals/bearDog) — TLS 1.3, Ed25519, ML-KEM post-quantum, zero C deps |
 | Consul / etcd | [songBird](https://github.com/ecoPrimals/songBird) — mDNS, WireGuard overlay, drawbridge proxy |
 | S3 / MinIO | [nestGate](https://github.com/ecoPrimals/nestGate) — content-addressed storage, B-tree, journal WAL |
@@ -79,7 +79,7 @@ No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
 ### How it's built
 
-Every commit is AI-assisted ([K-NOME methodology](https://primals.eco/methodology/k-nome-programming/)) —
+Every commit is AI-assisted ([K-NOME methodology](https://sporeprint.primals.eco/methodology/k-nome-programming/)) —
 human constraint + AI implementation. `Co-authored-by: Cursor` on every commit.
 11,000+ contributions in the last year from a single developer.
 
@@ -94,4 +94,4 @@ Documents: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
-<sub>primals.eco — sovereign science, verifiable claims, no gatekeepers</sub>
+<sub>sporeprint.primals.eco — sovereign science, verifiable claims, no gatekeepers</sub>
