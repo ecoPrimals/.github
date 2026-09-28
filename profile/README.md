@@ -5,7 +5,7 @@
 15 composable daemons, 9 validation springs, 98,955 tests, 3.6M lines of Rust.
 No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
-**Live site:** [sporeprint.primals.eco](https://sporeprint.primals.eco) &nbsp;|&nbsp; **Forgejo:** [git.primals.eco](https://git.primals.eco)
+**Live site:** [sporeprint.primals.eco](https://sporeprint.primals.eco) &nbsp;|&nbsp; **Public Record:** [detroit.primals.eco](https://detroit.primals.eco) &nbsp;|&nbsp; **Forgejo:** [git.primals.eco](https://git.primals.eco)
 
 ---
 
@@ -65,6 +65,8 @@ No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
 ### Live products
 
+- [**detroit.primals.eco**](https://detroit.primals.eco) — Public evidence library: Detroit charter school racketeering (181 pages, FOIA-sourced)
+- [**gorilla.primals.eco**](https://gorilla.primals.eco) — guerillaGorilla accountability infrastructure methodology
 - [**footPrint**](https://footprint.primals.eco) — Sovereign GIS platform for archaeological and ecological survey
 - [**esotericWebb**](https://webb.primals.eco) — Cross-evolution CRPG composed from rhizoCrypt + loamSpine + sweetGrass
 
@@ -94,4 +96,4 @@ Documents: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
-<sub>sporeprint.primals.eco — sovereign science, verifiable claims, no gatekeepers</sub>
+<sub>[sporeprint.primals.eco](https://sporeprint.primals.eco) — sovereign science &nbsp;|&nbsp; [detroit.primals.eco](https://detroit.primals.eco) — public record &nbsp;|&nbsp; [gorilla.primals.eco](https://gorilla.primals.eco) — accountability</sub>
