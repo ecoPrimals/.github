@@ -2,7 +2,7 @@
 
 **Sovereign distributed scientific computing in Pure Rust.**
 
-15 composable daemons, 9 validation springs, 98,955 tests, 3.6M lines of Rust.
+16 composable daemons, 9 validation springs, 117 research papers, 3.6M lines of Rust.
 No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
 **Live site:** [sporeprint.primals.eco](https://sporeprint.primals.eco) &nbsp;|&nbsp; **Public Record:** [detroit.primals.eco](https://detroit.primals.eco) &nbsp;|&nbsp; **Forgejo:** [git.primals.eco](https://git.primals.eco)
@@ -74,7 +74,7 @@ No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
 | Org | Purpose |
 |-----|---------|
-| **ecoPrimals** | Infrastructure — 15 primals + tooling |
+| **ecoPrimals** | Infrastructure — 16 primals + tooling |
 | [syntheticChemistry](https://github.com/syntheticChemistry) | Science validation — 9 springs |
 | [sporeGarden](https://github.com/sporeGarden) | Deployable products and infrastructure compositions |
 | [protoKarya](https://github.com/protoKarya) | User-facing applications for the wider world |
@@ -97,3 +97,5 @@ Documents: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 ---
 
 <sub>[sporeprint.primals.eco](https://sporeprint.primals.eco) — sovereign science &nbsp;|&nbsp; [detroit.primals.eco](https://detroit.primals.eco) — public record &nbsp;|&nbsp; [gorilla.primals.eco](https://gorilla.primals.eco) — accountability</sub>
+
+<sub>Keywords: Pure Rust scientific computing, WebGPU WGSL GPU compute, lattice QCD commodity hardware, protein structure prediction Rust, molecular dynamics no CUDA, sovereign computing, self-hosted science, post-quantum cryptography ML-KEM, Shannon entropy phenotyping, Klein bottle topology, distributed mesh networking</sub>
