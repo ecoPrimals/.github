@@ -5,6 +5,16 @@
 16 composable daemons, 9 validation springs, 117 research papers, 3.6M lines of Rust.
 No C, no cloud, no vendor lock-in. Self-hosted on commodity hardware. AGPL-3.0.
 
+### Face
+
+Yellow light. We scatter it.
+
+- **Green** stays. The work, the papers, the record.
+- **Red** that is bad travels faster than blue. Scanners arrive first. We do not chase them.
+- **Blue** listens slow. That is the reader.
+- The news we mean to send is mixed and splashed outside this room, onto these clothes.
+
+Alphabet: [hud.primals.eco/abc](https://hud.primals.eco/abc/) · News: [feed](https://hud.primals.eco/feed.xml) · Write: eco.primal@pm.me
 **Live site:** [sporeprint.primals.eco](https://sporeprint.primals.eco) &nbsp;|&nbsp; **Public Record:** [detroit.primals.eco](https://detroit.primals.eco) &nbsp;|&nbsp; **Forgejo:** [git.primals.eco](https://git.primals.eco)
 
 ---
